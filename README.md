@@ -1,4 +1,4 @@
-***Vibescape***                                                                                                                    
+***Vibescape :***                                                                                                                    
 Where music meets together                                                                                                
 
 What is Vibescape?                                                                                                                      
@@ -32,8 +32,11 @@ Login with your Spotify account
 Create a lounge or join with a friend's code
 
 Search for songs and add them to the queue
+
 Vote on songs to move them up or down
+
 Chat with everyone in the lounge
+
 Enjoy collaborative playlists together!
 
 
